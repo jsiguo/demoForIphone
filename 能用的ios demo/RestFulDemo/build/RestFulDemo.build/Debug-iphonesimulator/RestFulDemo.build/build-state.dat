@@ -1,0 +1,881 @@
+TRestFulDemo
+v7
+r0
+t343811016.882688
+cCheck dependencies
+cProcessInfoPlistFile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/Info.plist RestFulDemo-Info.plist
+cCompileXIB /Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib
+cCompileXIB /Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib
+cCpResource build/Debug-iphonesimulator/RestFulDemo.app/client.p12 client.p12
+cCpResource build/Debug-iphonesimulator/RestFulDemo.app/server.p12 server.p12
+cProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch.gch RestFulDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/main.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoViewController.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataCompressor.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataDecompressor.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDownloadCache.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIFormDataRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIHTTPRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIInputStream.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoViewController.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetworkQueue.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/Reachability.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/MD5HexDigest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpsRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo normal i386
+cGenerateDSYMFile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app.dSYM /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo
+cTouch /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CEB40000000000000AB3
+t1297403572
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004D54CEFE0000000000088380
+t1297403646
+s557952
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C50400000000000008F5
+t1297401092
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54D0E6000000000000638F
+t1297404134
+s25487
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/zlib.h
+c000000004D54CB4600000000000102A5
+t1297402694
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m
+c000000004ECCB23C00000000000000C4
+t1322037820
+s196
+i"HttpRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.h
+c000000004DCEFB960000000000000453
+t1305410454
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m
+c000000004DCEFB960000000000003DED
+t1305410454
+s15853
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASICacheDelegate.h
+c000000004DD4AD41000000000000141F
+t1305783617
+s5151
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.h
+c000000004DCEFB96000000000000072C
+t1305410454
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m
+c000000004DD4AEC40000000000001A4A
+t1305784004
+s6730
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.h
+c000000004DCEFB9600000000000006A3
+t1305410454
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m
+c000000004DD4A8D00000000000001906
+t1305782480
+s6406
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.h
+c000000004DCEFB9600000000000006CD
+t1305410454
+s1741
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m
+c000000004DCEFB9600000000000042B8
+t1305410454
+s17080
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.h
+c000000004DCEFB960000000000000A6D
+t1305410454
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m
+c000000004DCEFB960000000000002B6A
+t1305410454
+s11114
+i"ASIFormDataRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.h
+c000000004DD4BD4C000000000000AD05
+t1305787724
+s44293
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m
+c000000004DD4ACEE000000000002C248
+t1305783534
+s180808
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequestConfig.h
+c000000004DD4B1D90000000000000478
+t1305784793
+s1144
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequestDelegate.h
+c000000004DCEFB96000000000000063E
+t1305410454
+s1598
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.h
+c000000004DCEFB9600000000000003C9
+t1305410454
+s969
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m
+c000000004DCEFB960000000000000C14
+t1305410454
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.h
+c000000004DD48C600000000000000291
+t1305775200
+s657
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m
+c000000004DD48C600000000000000B29
+t1305775200
+s2857
+i"ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.h"
+i"ASINetWorkQueue_imageDataDownLoadDemoViewController.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.h
+c000000004DD4BAE0000000000000059D
+t1305787104
+s1437
+i<UIKit/UIKit.h>
+i"ASINetworkQueue.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m
+c000000004DD4D70000000000000013F9
+t1305794304
+s5113
+i"ASINetWorkQueue_imageDataDownLoadDemoViewController.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.h
+c000000004DD46D67000000000000120D
+t1305767271
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m
+c000000004DD4AACB0000000000002C8D
+t1305782987
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIProgressDelegate.h
+c000000004DD4BE0B0000000000000678
+t1305787915
+s1656
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.h
+c000000004ECCB7E70000000000000113
+t1322039271
+s275
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m
+c000000004ECDEC100000000000000A45
+t1322118160
+s2629
+i"HttpsRequest.h"
+i"ASIHTTPRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.h
+c000000004ECC9051000000000000012B
+t1322029137
+s299
+i<Foundation/Foundation.h>
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m
+c000000004ECC901D000000000000029F
+t1322029085
+s671
+i"MD5HexDigest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.h
+c000000004DCEFB960000000000001D0E
+t1305410454
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m
+c000000004DD39C290000000000005E0C
+t1305713705
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.h
+c000000004ECB592400000000000001EF
+t1321949476
+s495
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m
+c000000004ECB59240000000000000AB6
+t1321949476
+s2742
+i"RestFulDemoAppDelegate.h"
+i"RestFulDemoViewController.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.h
+c000000004ECB5A540000000000000244
+t1321949780
+s580
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m
+c000000004ECCB7DB0000000000000CDC
+t1322039259
+s3292
+i"RestFulDemoViewController.h"
+i"ASIHTTPRequest.h"
+i"MD5HexDigest.h"
+i"HttpsRequest.h"
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/HttpRequest.h
+c000000004ECCB1C400000000000000D8
+t1322037700
+s216
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib
+c000000004ECB59240000000000004E59
+t1321949476
+s20057
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib
+c000000004ECC91FD0000000000006F90
+t1322029565
+s28560
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemo_Prefix.pch
+c000000004ECB592400000000000000BF
+t1321949476
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app
+t1322118216
+s306
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app.dSYM
+t1322118216
+s102
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/Info.plist
+t1322118205
+s607
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/MainWindow.nib
+t1322118207
+s1689
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/PkgInfo
+t1322118205
+s8
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo
+t1322118216
+s421204
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemoViewController.nib
+t1322118208
+s4614
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/client.p12
+t1322118208
+s1716
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/server.p12
+t1322118208
+s224
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1322118210
+s108676
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataCompressor.o
+t1322118210
+s23348
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataDecompressor.o
+t1322118210
+s23312
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDownloadCache.o
+t1322118211
+s59524
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIFormDataRequest.o
+t1322118211
+s47700
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIHTTPRequest.o
+t1322118215
+s511048
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIInputStream.o
+t1322118212
+s29104
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.o
+t1322118213
+s54456
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoViewController.o
+t1322118213
+s73616
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetworkQueue.o
+t1322118214
+s61504
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpRequest.o
+t1322118216
+s5104
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpsRequest.o
+t1322118216
+s19780
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/MD5HexDigest.o
+t1322118215
+s7844
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/Reachability.o
+t1322118215
+s33780
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemo.LinkFileList
+c000000004ECDEC3D0000000000000A77
+t1322118205
+s2679
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoAppDelegate.o
+t1322118208
+s51640
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoViewController.o
+t1322118209
+s61940
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/main.o
+t1322118208
+s6336
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/client.p12
+c000000004EB8C4BA00000000000006B4
+t1320731834
+s1716
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m
+c000000004ECB59240000000000000165
+t1321949476
+s357
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/RestFulDemo/server.p12
+c000000004ECDC48600000000000000E0
+t1322108038
+s224
+
+N/var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch.gch
+t1321949893
+s15814064
+
+NRestFulDemo-Info.plist
+c000000004ECB5924000000000000038D
+t1321949476
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343811005#343811005#0(0"0(0#1#0"8613326624#0"0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811009.031812
+e343811010.116145
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m343811009#343811010#0(0"0(0#0#84"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m8614027328#2172"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIAuthenticationDialog.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataCompressor.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811009.635784
+e343811010.410995
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m343811009#343811010#0(0"0(0#0#78"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m8603694112#2160"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataCompressor.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataDecompressor.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811010.116280
+e343811010.923496
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m343811010#343811010#0(0"0(0#0#80"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m8612904352#2164"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDataDecompressor.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDownloadCache.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811010.411132
+e343811011.385290
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m343811010#343811011#0(0"0(0#0#77"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m8614893344#2158"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIDownloadCache.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIFormDataRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811010.923531
+e343811011.818533
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m343811010#343811011#0(0"0(0#0#79"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m8614837568#2162"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIFormDataRequest.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIHTTPRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811011.385768
+e343811015.112502
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m343811011#343811015#0(0"0(0#0#75"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m8614207456#2154"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIHTTPRequest.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIInputStream.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811011.818762
+e343811012.505837
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIInputStream.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m343811011#343811012#0(0"0(0#0#75"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m8612920000#2154"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASIInputStream.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811012.505986
+e343811013.150122
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m343811012#343811013#0(0"0(0#0#109"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m8614820064#2222"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoAppDelegate.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoViewController.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811013.150801
+e343811013.904913
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoViewController.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m343811013#343811013#0(0"0(0#0#112"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m8614224800#2228"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetWorkQueue_imageDataDownLoadDemoViewController.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetWorkQueue_imageDataDownLoadDemoViewController.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetworkQueue.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811013.905062
+e343811014.793516
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m343811013#343811014#0(0"0(0#0#76"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m8613132960#2156"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/ASINetworkQueue.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811015.679190
+e343811016.202827
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpRequest.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m343811015#343811016#0(0"0(0#0#75"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m8612404032#2151"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/../HttpRequest.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpRequest.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpsRequest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811015.638089
+e343811016.286104
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpsRequest.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m: In function '-[HttpsRequest testClientCertificate:]':
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:16: warning: incompatible Objective-C types 'struct NSString *', expected 'struct NSURL *' when passing argument 1 of 'requestWithURL:' from distinct Objective-C type
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: 'HttpsRequest' may not respond to '-extractIdentity:andTrust:fromPKCS12Data:'
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: (Messages without a matching method signature
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: will be assumed to return 'id' and accept
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: '...' as arguments.)
+lSLF07#2@81"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m343811015#343811016#0(905"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m: In function '-[HttpsRequest testClientCertificate:]':/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:16: warning: incompatible Objective-C types 'struct NSString *', expected 'struct NSURL *' when passing argument 1 of 'requestWithURL:' from distinct Objective-C type/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: 'HttpsRequest' may not respond to '-extractIdentity:andTrust:fromPKCS12Data:'/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: (Messages without a matching method signature/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: will be assumed to return 'id' and accept/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m:25: warning: '...' as arguments.)3(22@153"Incompatible Objective-C types 'struct NSString *', expected 'struct NSURL *' when passing argument 1 of 'requestWithURL:' from distinct Objective-C type343811016#129#241#0(6@73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m343810960#16#0#16#0#0"0(22@77"'HttpsRequest' may not respond to '-extractIdentity:andTrust:fromPKCS12Data:'343811016#370#165#0(6@73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m343810960#25#0#25#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)343811016#535#133#0(6@73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m343810960#25#0#25#0#0"0(0#0#73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m8603730496#2150"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/HttpsRequest.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/MD5HexDigest.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811015.112645
+e343811015.637739
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/MD5HexDigest.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m343811015#343811015#0(0"0(0#0#73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m8613782656#2150"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/MD5HexDigest.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/MD5HexDigest.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/Reachability.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811014.794000
+e343811015.679067
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/Reachability.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m343811014#343811015#0(0"0(0#0#73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m8614984512#2150"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/Reachability.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811008.323537
+e343811009.031662
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoAppDelegate.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m343811008#343811009#0(0"0(0#0#83"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m8603936864#2170"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoAppDelegate.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoAppDelegate.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoViewController.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811008.839016
+e343811009.635217
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoViewController.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m: In function '-[RestFulDemoViewController btn_Login:]':
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m:69: warning: incompatible Objective-C types 'struct NSURL *', expected 'struct NSString *' when passing argument 1 of 'testClientCertificate:' from distinct Objective-C type
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m: In function '-[RestFulDemoViewController requestFinished:]':
+o/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m:88: warning: unused variable 'responseData'
+lSLF07#2@94"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m343811008#343811009#0(684"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m: In function '-[RestFulDemoViewController btn_Login:]':/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m:69: warning: incompatible Objective-C types 'struct NSURL *', expected 'struct NSString *' when passing argument 1 of 'testClientCertificate:' from distinct Objective-C type/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m: In function '-[RestFulDemoViewController requestFinished:]':/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m:88: warning: unused variable 'responseData'2(22@160"Incompatible Objective-C types 'struct NSURL *', expected 'struct NSString *' when passing argument 1 of 'testClientCertificate:' from distinct Objective-C type343811009#143#261#0(6@86"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m343732059#69#0#69#0#0"0(22@30"Unused variable 'responseData'343811009#553#131#0(6@86"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m343732059#88#0#88#0#19"unused variable '*'0(0#0#86"/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m8614744000#2176"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemoViewController.o0#
+
+CCompileC build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/main.o /Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811008.318214
+e343811008.838880
+r1
+xCompileC
+xbuild/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/main.o
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m343811008#343811008#0(0"0(0#0#57"/Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m8606007648#2126"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/RestFulDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/main.m -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib
+s343811005.387135
+e343811007.978479
+r1
+xCompileXIB
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib343811005#343811007#0(0"0(0#0#65"/Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib8605785216#610"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/MainWindow.nib /Users/ultrawise/Documents/iphone-test/RestFulDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib
+s343811005.393793
+e343811008.317963
+r1
+xCompileXIB
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib
+lSLF07#2@40"CompileXIB RestFulDemoViewController.xib343811005#343811008#0(0"0(0#0#80"/Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib8604299104#640"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemoViewController.nib /Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/RestFulDemo.app/client.p12 client.p12
+s343811007.978873
+e343811008.028956
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RestFulDemo.app/client.p12
+xclient.p12
+lSLF07#2@15"Copy client.p12343811007#343811008#0(0"0(0#0#61"/Users/ultrawise/Documents/iphone-test/RestFulDemo/client.p128604513984#508"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Documents/iphone-test/RestFulDemo/client.p12 /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/RestFulDemo.app/server.p12 server.p12
+s343811007.985933
+e343811008.051125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RestFulDemo.app/server.p12
+xserver.p12
+lSLF07#2@15"Copy server.p12343811007#343811008#0(0"0(0#0#61"/Users/ultrawise/Documents/iphone-test/RestFulDemo/server.p128602368192#508"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Documents/iphone-test/RestFulDemo/server.p12 /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app0#
+
+CGenerateDSYMFile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app.dSYM /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo
+s343811016.646576
+e343811016.858743
+r1
+xGenerateDSYMFile
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app.dSYM
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/RestFulDemo.app.dSYM build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo343811016#343811016#0(0"0(0#0#106"/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo8613701440#431"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app.dSYM0#
+
+CLd /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo normal i386
+s343811016.286264
+e343811016.644478
+r1
+xLd
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo
+xnormal
+xi386
+lSLF07#2@111"Link /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo343811016#343811016#0(0"0(0#0#0"8613897280#1092"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -F/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator -filelist /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/RestFulDemo.build/Debug-iphonesimulator/RestFulDemo.build/Objects-normal/i386/RestFulDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework SystemConfiguration -lz.1.2.3 -framework MobileCoreServices -framework Security -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/RestFulDemo0#
+
+CProcessInfoPlistFile /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/Info.plist RestFulDemo-Info.plist
+s343811005.372137
+e343811005.386849
+r1
+xProcessInfoPlistFile
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/Info.plist
+xRestFulDemo-Info.plist
+lSLF07#2@30"Process RestFulDemo-Info.plist343811005#343811005#0(0"0(0#0#73"/Users/ultrawise/Documents/iphone-test/RestFulDemo/RestFulDemo-Info.plist8612328352#527"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RestFulDemo-Info.plist -genpkginfo /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RestFulDemo_Prefix-djbiqkyclwmyatfbekgbtctindlj/RestFulDemo_Prefix.pch.gch RestFulDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app
+s343811016.858879
+e343811016.882583
+r1
+xTouch
+x/Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app
+lSLF07#2@100"Touch /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app343811016#343811016#0(0"0(0#0#0"8612887328#306"    cd /Users/ultrawise/Documents/iphone-test/RestFulDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ultrawise/Documents/iphone-test/RestFulDemo/build/Debug-iphonesimulator/RestFulDemo.app0#
+

@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	0B860FD4147E2431009F4984 /* SSLDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SSLDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0B860FE6147E244E009F4984 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0B860FE7147E244E009F4984 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B861092147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SSLDemoAppDelegate.h */;
+		name = "SSLDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	0B861093147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SSLDemoAppDelegate.m */;
+		name = "SSLDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 0;
+	};
+	0B861094147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SSLDemoViewController.h */;
+		name = "SSLDemoViewController.h: 13";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	0B861095147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B861096147E3995009F4984 /* HttpsRequest.m */;
+		name = "HttpsRequest.m: 14";
+		rLen = 2356;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 1749;
+	};
+	0B861096147E3995009F4984 /* HttpsRequest.m */ = {
+		isa = PBXFileReference;
+		name = HttpsRequest.m;
+		path = "/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/HttpsRequest.m";
+		sourceTree = "<absolute>";
+	};
+	0B861097147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B861098147E3995009F4984 /* RestFulDemoViewController.m */;
+		name = "RestFulDemoViewController.m: 66";
+		rLen = 264;
+		rLoc = 1711;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 1325;
+	};
+	0B861098147E3995009F4984 /* RestFulDemoViewController.m */ = {
+		isa = PBXFileReference;
+		name = RestFulDemoViewController.m;
+		path = "/Users/ultrawise/Documents/iphone-test/RestFulDemo/Classes/RestFulDemoViewController.m";
+		sourceTree = "<absolute>";
+	};
+	0B861099147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SSLDemoViewController.m */;
+		name = "SSLDemoViewController.m: 98";
+		rLen = 0;
+		rLoc = 3304;
+		rType = 0;
+		vrLen = 456;
+		vrLoc = 313;
+	};
+	0B86109A147E3995009F4984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SSLDemoViewController.m */;
+		name = "SSLDemoViewController.m: 82";
+		rLen = 10;
+		rLoc = 2428;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 1977;
+	};
+	1D3623240D0F684500981E51 /* SSLDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 470}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SSLDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 1222}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 456}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SSLDemo */ = {
+		activeExec = 0;
+		executables = (
+			0B860FD4147E2431009F4984 /* SSLDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SSLDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 263}}";
+			sepNavSelRange = "{249, 0}";
+			sepNavVisRange = "{0, 338}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SSLDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1924}}";
+			sepNavSelRange = "{2428, 10}";
+			sepNavVisRange = "{1977, 1145}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0B860FD4147E2431009F4984 /* SSLDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SSLDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SSLDemo */,
+		);
+		codeSenseManager = 0B860FE7147E244E009F4984 /* Code sense */;
+		executables = (
+			0B860FD4147E2431009F4984 /* SSLDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					628,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343811121;
+			PBXWorkspaceStateSaveDate = 343811121;
+		};
+		perUserProjectItems = {
+			0B861092147E3995009F4984 /* PBXTextBookmark */ = 0B861092147E3995009F4984 /* PBXTextBookmark */;
+			0B861093147E3995009F4984 /* PBXTextBookmark */ = 0B861093147E3995009F4984 /* PBXTextBookmark */;
+			0B861094147E3995009F4984 /* PBXTextBookmark */ = 0B861094147E3995009F4984 /* PBXTextBookmark */;
+			0B861095147E3995009F4984 /* PBXTextBookmark */ = 0B861095147E3995009F4984 /* PBXTextBookmark */;
+			0B861097147E3995009F4984 /* PBXTextBookmark */ = 0B861097147E3995009F4984 /* PBXTextBookmark */;
+			0B861099147E3995009F4984 /* PBXTextBookmark */ = 0B861099147E3995009F4984 /* PBXTextBookmark */;
+			0B86109A147E3995009F4984 /* PBXTextBookmark */ = 0B86109A147E3995009F4984 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0B860FE6147E244E009F4984 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

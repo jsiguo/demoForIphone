@@ -1,0 +1,256 @@
+TSSLDemo
+v7
+r0
+t343811149.682393
+cCheck dependencies
+cProcessInfoPlistFile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/Info.plist SSLDemo-Info.plist
+cCompileXIB /Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib
+cCompileXIB /Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib
+cProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch.gch SSLDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/main.o /Users/ultrawise/Documents/iphone-test/SSLDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoViewController.o /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo normal i386
+cGenerateDSYMFile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app.dSYM /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo
+cTouch /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.h
+c000000004ECDECB100000000000001D7
+t1322118321
+s471
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m
+c000000004ECDECB10000000000000AA2
+t1322118321
+s2722
+i"SSLDemoAppDelegate.h"
+i"SSLDemoViewController.h"
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.h
+c000000004ECDECB100000000000000E6
+t1322118321
+s230
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m
+c000000004ECDECB100000000000005B9
+t1322118321
+s1465
+i"SSLDemoViewController.h"
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib
+c000000004ECDECB10000000000004E29
+t1322118321
+s20009
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib
+c000000004ECDECB10000000000001A45
+t1322118321
+s6725
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemo_Prefix.pch
+c000000004ECDECB100000000000000B7
+t1322118321
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app
+t1322118349
+s238
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app.dSYM
+t1322118349
+s102
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/Info.plist
+t1322118341
+s591
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/MainWindow.nib
+t1322118343
+s1681
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/PkgInfo
+t1322118341
+s8
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo
+t1322118349
+s17116
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemoViewController.nib
+t1322118343
+s1269
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemo.LinkFileList
+c000000004ECDECC500000000000001A5
+t1322118341
+s421
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoAppDelegate.o
+t1322118348
+s51332
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoViewController.o
+t1322118349
+s37960
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/main.o
+t1322118348
+s6328
+
+N/Users/ultrawise/Documents/iphone-test/SSLDemo/main.m
+c000000004ECDECB10000000000000161
+t1322118321
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch.gch
+t1322118347
+s15814064
+
+NSSLDemo-Info.plist
+c000000004ECDECB1000000000000038D
+t1322118321
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343811141#343811141#0(0"0(0#1#0"8613474240#0"0#
+
+CCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoAppDelegate.o /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811147.771622
+e343811148.918866
+r1
+xCompileC
+xbuild/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoAppDelegate.o
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m343811147#343811148#0(0"0(0#0#75"/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m8603659904#2038"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoAppDelegate.m -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoAppDelegate.o0#
+
+CCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoViewController.o /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811148.431941
+e343811149.217537
+r1
+xCompileC
+xbuild/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoViewController.o
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m343811148#343811149#0(0"0(0#0#78"/Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m8614388384#2044"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/SSLDemo/Classes/SSLDemoViewController.m -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemoViewController.o0#
+
+CCompileC build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/main.o /Users/ultrawise/Documents/iphone-test/SSLDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811147.762851
+e343811148.431765
+r1
+xCompileC
+xbuild/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/main.o
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/ultrawise/Documents/iphone-test/SSLDemo/main.m343811147#343811148#0(0"0(0#0#53"/Users/ultrawise/Documents/iphone-test/SSLDemo/main.m8602476896#2002"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch -c /Users/ultrawise/Documents/iphone-test/SSLDemo/main.m -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib
+s343811141.543117
+e343811143.932555
+r1
+xCompileXIB
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib343811141#343811143#0(0"0(0#0#61"/Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib8615179008#594"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/MainWindow.nib /Users/ultrawise/Documents/iphone-test/SSLDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib
+s343811141.550967
+e343811143.982998
+r1
+xCompileXIB
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib
+lSLF07#2@36"CompileXIB SSLDemoViewController.xib343811141#343811143#0(0"0(0#0#72"/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib8614537088#616"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemoViewController.nib /Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app.dSYM /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo
+s343811149.456861
+e343811149.650699
+r1
+xGenerateDSYMFile
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app.dSYM
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/SSLDemo.app.dSYM build/Debug-iphonesimulator/SSLDemo.app/SSLDemo343811149#343811149#0(0"0(0#0#94"/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo8614817248#407"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app.dSYM0#
+
+CLd /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo normal i386
+s343811149.217672
+e343811149.455694
+r1
+xLd
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo
+xnormal
+xi386
+lSLF07#2@99"Link /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo343811149#343811149#0(0"0(0#0#0"8603710528#940"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -F/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -filelist /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/Objects-normal/i386/SSLDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/SSLDemo0#
+
+CProcessInfoPlistFile /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/Info.plist SSLDemo-Info.plist
+s343811141.319246
+e343811141.539895
+r1
+xProcessInfoPlistFile
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/Info.plist
+xSSLDemo-Info.plist
+lSLF07#2@26"Process SSLDemo-Info.plist343811141#343811141#0(0"0(0#0#65"/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemo-Info.plist8602716064#503"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SSLDemo-Info.plist -genpkginfo /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch.gch SSLDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343811143.983168
+e343811147.762201
+r1
+xProcessPCH
+x/var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch.gch
+xSSLDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile SSLDemo_Prefix.pch343811143#343811147#0(0"0(0#0#65"/Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemo_Prefix.pch8590424864#1886"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-generated-files.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-own-target-headers.hmap -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-all-target-headers.hmap -iquote /Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/SSLDemo-project-headers.hmap -F/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/include -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources/i386 -I/Users/ultrawise/Documents/iphone-test/SSLDemo/build/SSLDemo.build/Debug-iphonesimulator/SSLDemo.build/DerivedSources -c /Users/ultrawise/Documents/iphone-test/SSLDemo/SSLDemo_Prefix.pch -o /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SSLDemo_Prefix-eggwbfjfwszhgwagyzfdbssikdqe/SSLDemo_Prefix.pch.gch0#
+
+CTouch /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app
+s343811149.650904
+e343811149.682231
+r1
+xTouch
+x/Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app
+lSLF07#2@92"Touch /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app343811149#343811149#0(0"0(0#0#0"8612425344#294"    cd /Users/ultrawise/Documents/iphone-test/SSLDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ultrawise/Documents/iphone-test/SSLDemo/build/Debug-iphonesimulator/SSLDemo.app0#
+

@@ -1,0 +1,2053 @@
+TManagerMoney
+v7
+r0
+t342354650.550229
+cCheck dependencies
+cProcessInfoPlistFile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/Info.plist ManagerMoney-Info.plist
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/main_bg.png main_bg.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/dui1.png dui1.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/dui2.png dui2.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/main_nav_bar.png main_nav_bar.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bkgd.png start_logo_bkgd.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bg.jpg start_logo_bg.jpg
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/bg.png bg.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/jttp.png jttp.png
+cCompileXIB /Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/down.png down.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/up.png up.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/logo.png logo.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang1.png yinhang1.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang4.png yinhang4.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang5.png yinhang5.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang6.png yinhang6.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang2.png yinhang2.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang3.png yinhang3.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/call_locate_orange.9.png call_locate_orange.9.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/caiwufenxi.png caiwufenxi.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/zhichuxiangqing.png zhichuxiangqing.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/addshouru.png addshouru.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/addzhichu.png addzhichu.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/sousuozhanghu.png sousuozhanghu.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/shouruxiangqing.png shouruxiangqing.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/selection.png selection.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_fenxi.png home_fenxi.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_guwen.png home_guwen.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_hangqing.png home_hangqing.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_income.png home_income.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_user.png home_user.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_xinxi.png home_xinxi.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_disover.png toolbar_disover.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_fenxi.png toolbar_fenxi.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_hanqing.png toolbar_hanqing.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_income.png toolbar_income.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_user.png toolbar_user.png
+cCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_xiaoxi.png toolbar_xiaoxi.png
+cProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch.gch ManagerMoney_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/main.o /Users/ultrawise/Desktop/ManagerMoney/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoneyAppDelegate.o /Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/LoginView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/HomeView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/PersonallyAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/NewAddAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountAnalyseView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/AlwaysPropertyView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/IncomeAndPayoutView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MAINCONTROLVIEW.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/DropDownList.o /Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/CustomCell.o /Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/BarChartViewController.o /Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney normal i386
+cGenerateDSYMFile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app.dSYM /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney
+cTouch /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004D56164D000000000000015E
+t1297487437
+s350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.h
+c000000004EB7A0A70000000000000164
+t1320657063
+s356
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m
+c000000004EB7A72A0000000000000806
+t1320658730
+s2054
+i"AlwaysPropertyView.h"
+i<QuartzCore/QuartzCore.h>
+i"BarChartViewController.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib
+c000000004EB7A7060000000000011E8E
+t1320658694
+s73358
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.h
+c000000004EB78EA8000000000000028B
+t1320652456
+s651
+i<UIKit/UIKit.h>
+i"CorePlot-CocoaTouch.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m
+c000000004EB7A6C800000000000016AC
+t1320658632
+s5804
+i"BarChartViewController.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.h
+c000000004EB78EA8000000000000025B
+t1320652456
+s603
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m
+c000000004EB78EA800000000000006A2
+t1320652456
+s1698
+i"CustomCell.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.h
+c000000004EB78EA8000000000000046F
+t1320652456
+s1135
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m
+c000000004EB78EA80000000000001254
+t1320652456
+s4692
+i"DropDownList.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.h
+c000000004EB79F6100000000000002B0
+t1320656737
+s688
+i<UIKit/UIKit.h>
+i"MAINCONTROLVIEW.h"
+i"IncomeAndPayoutView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m
+c000000004EB7A08E00000000000009AE
+t1320657038
+s2478
+i"HomeView.h"
+i"IncomeAndPayoutView.h"
+i"PersonallyAccountView.h"
+i"AlwaysPropertyView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib
+c000000004EB7A0F40000000000009F8E
+t1320657140
+s40846
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.h
+c000000004EB78EA80000000000000117
+t1320652456
+s279
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m
+c000000004EB78EA80000000000000611
+t1320652456
+s1553
+i"IncomeAndPayoutView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib
+c000000004EB78EA8000000000000A94D
+t1320652456
+s43341
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.h
+c000000004EB78EA800000000000003CF
+t1320652456
+s975
+i<UIKit/UIKit.h>
+i"HomeView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m
+c000000004EB78EA80000000000000DC5
+t1320652456
+s3525
+i"LoginView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib
+c000000004EB78EA8000000000000D7B5
+t1320652456
+s55221
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.h
+c000000004EB78EA8000000000000023F
+t1320652456
+s575
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m
+c000000004EB78EA80000000000000748
+t1320652456
+s1864
+i"MAINCONTROLVIEW.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib
+c000000004EB78EA8000000000000809F
+t1320652456
+s32927
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.h
+c000000004EB78EA80000000000000121
+t1320652456
+s289
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m
+c000000004EB7A32F0000000000000763
+t1320657711
+s1891
+i"MainAccountAnalyseView.h"
+i"BarChartViewController.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib
+c000000004EB78EA800000000000058E1
+t1320652456
+s22753
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.h
+c000000004EB78EA80000000000000356
+t1320652456
+s854
+i<UIKit/UIKit.h>
+i"MainAccountAnalyseView.h"
+i"CustomCell.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m
+c000000004EB7B3560000000000000C04
+t1320661846
+s3076
+i"MainAccountView.h"
+i"CustomCell.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib
+c000000004EB78EA800000000000084FA
+t1320652456
+s34042
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.h
+c000000004EB78EA8000000000000023D
+t1320652456
+s573
+i<UIKit/UIKit.h>
+i"LoginView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m
+c000000004EB78EA80000000000000AAB
+t1320652456
+s2731
+i"ManagerMoneyAppDelegate.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.h
+c000000004EB78EA80000000000000112
+t1320652456
+s274
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m
+c000000004EB78EA80000000000000837
+t1320652456
+s2103
+i"NewAddAccountView.h"
+i"DropDownList.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib
+c000000004EB78EA80000000000008390
+t1320652456
+s33680
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.h
+c000000004EB78EA80000000000000395
+t1320652456
+s917
+i<UIKit/UIKit.h>
+i"CustomCell.h"
+i"MainAccountView.h"
+i"NewAddAccountView.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m
+c000000004EB7AAED0000000000000D67
+t1320659693
+s3431
+i"PersonallyAccountView.h"
+i"CustomCell.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib
+c000000004EB7AB01000000000000C233
+t1320659713
+s49715
+
+N/Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib
+c000000004EB78EB300000000000065B2
+t1320652467
+s26034
+
+N/Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib
+c000000004EB78EB30000000000004FE2
+t1320652467
+s20450
+
+N/Users/ultrawise/Desktop/ManagerMoney/ManagerMoney_Prefix.pch
+c000000004EB78EB300000000000000C1
+t1320652467
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/addshouru.png
+c000000004EB78EB200000000000025E9
+t1320652466
+s9705
+
+N/Users/ultrawise/Desktop/ManagerMoney/addzhichu.png
+c000000004EB78EB200000000000025EF
+t1320652466
+s9711
+
+N/Users/ultrawise/Desktop/ManagerMoney/bg.png
+c000000004EB78EB30000000000027ADA
+t1320652467
+s162522
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app
+t1320661850
+s1802
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app.dSYM
+t1320661850
+s102
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/AlwaysPropertyView.nib
+t1320658698
+s10561
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/CustomCell.nib
+t1320652498
+s4872
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/HomeView.nib
+t1320657145
+s5824
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/IncomeAndPayoutView.nib
+t1320652495
+s7678
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/Info.plist
+t1320652488
+s704
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/LoginView.nib
+t1320652489
+s8270
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MAINCONTROLVIEW.nib
+t1320652496
+s5096
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainAccountAnalyseView.nib
+t1320652494
+s2548
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainAccountView.nib
+t1320652493
+s4827
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainWindow.nib
+t1320652489
+s1668
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney
+t1320661850
+s821020
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/NewAddAccountView.nib
+t1320652492
+s5828
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/PersonallyAccountView.nib
+t1320659715
+s7039
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/PkgInfo
+t1320652488
+s8
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/addshouru.png
+t1320652498
+s9705
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/addzhichu.png
+t1320652498
+s9711
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/bg.png
+t1320652497
+s162522
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/caiwufenxi.png
+t1320652498
+s10139
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/call_locate_orange.9.png
+t1320652498
+s923
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/down.png
+t1320652498
+s3530
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/dui1.png
+t1320652496
+s1512
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/dui2.png
+t1320652496
+s1418
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_fenxi.png
+t1320652498
+s9730
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_guwen.png
+t1320652498
+s9696
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_hangqing.png
+t1320652498
+s8198
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_income.png
+t1320652498
+s7856
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_user.png
+t1320652498
+s8671
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/home_xinxi.png
+t1320652498
+s9534
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/jttp.png
+t1320652497
+s217
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/logo.png
+t1320652498
+s13506
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/main_bg.png
+t1320652496
+s356282
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/main_nav_bar.png
+t1320652496
+s5061
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/selection.png
+t1320652498
+s3443
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/shouruxiangqing.png
+t1320652498
+s9644
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/sousuozhanghu.png
+t1320652498
+s10055
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bg.jpg
+t1320652497
+s10629
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bkgd.png
+t1320652497
+s85683
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_disover.png
+t1320652498
+s6113
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_fenxi.png
+t1320652498
+s5355
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_hanqing.png
+t1320652498
+s4731
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_income.png
+t1320652498
+s4090
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_user.png
+t1320652499
+s4961
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/toolbar_xiaoxi.png
+t1320652499
+s7400
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/up.png
+t1320652498
+s3676
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang1.png
+t1320652498
+s6366
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang2.png
+t1320652498
+s5953
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang3.png
+t1320652498
+s6232
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang4.png
+t1320652498
+s5962
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang5.png
+t1320652498
+s6384
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/yinhang6.png
+t1320652498
+s6811
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/zhichuxiangqing.png
+t1320652498
+s9301
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a
+c000000004EB792A0000000000022AAF0
+t1320653472
+s2271984
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/AlwaysPropertyView.o
+t1320658733
+s48612
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/BarChartViewController.o
+t1320658636
+s66008
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/CustomCell.o
+t1320652502
+s44964
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/DropDownList.o
+t1320652501
+s64920
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/HomeView.o
+t1320657068
+s47204
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/IncomeAndPayoutView.o
+t1320652501
+s38860
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/LoginView.o
+t1320656808
+s56452
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MAINCONTROLVIEW.o
+t1320652501
+s42772
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountAnalyseView.o
+t1320657715
+s46508
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountView.o
+t1320661850
+s60376
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoney.LinkFileList
+c000000004EB78EC800000000000007C9
+t1320652488
+s1993
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoneyAppDelegate.o
+t1320656808
+s51940
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/NewAddAccountView.o
+t1320652500
+s43684
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/PersonallyAccountView.o
+t1320659715
+s59928
+
+N/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/main.o
+t1320652500
+s6308
+
+N/Users/ultrawise/Desktop/ManagerMoney/caiwufenxi.png
+c000000004EB78EB3000000000000279B
+t1320652467
+s10139
+
+N/Users/ultrawise/Desktop/ManagerMoney/call_locate_orange.9.png
+c000000004EB78EB3000000000000039B
+t1320652467
+s923
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/CorePlot-CocoaTouch.h
+c000000004EB78EB100000000000006E9
+t1320652465
+s1769
+i"CPAnnotation.h"
+i"CPAnnotationHostLayer.h"
+i"CPAxis.h"
+i"CPAxisLabel.h"
+i"CPAxisLabelGroup.h"
+i"CPAxisSet.h"
+i"CPAxisTitle.h"
+i"CPBarPlot.h"
+i"CPBorderedLayer.h"
+i"CPColor.h"
+i"CPColorSpace.h"
+i"CPConstrainedPosition.h"
+i"CPDarkGradientTheme.h"
+i"CPDefinitions.h"
+i"CPExceptions.h"
+i"CPFill.h"
+i"CPGradient.h"
+i"CPGraph.h"
+i"CPGraphHostingView.h"
+i"CPGridLines.h"
+i"CPImage.h"
+i"CPLayer.h"
+i"CPLayerAnnotation.h"
+i"CPLayoutManager.h"
+i"CPLimitBand.h"
+i"CPLineStyle.h"
+i"CPMutableLineStyle.h"
+i"CPMutableNumericData.h"
+i"CPMutableNumericData+TypeConversion.h"
+i"CPMutableTextStyle.h"
+i"CPNumericData.h"
+i"CPNumericData+TypeConversion.h"
+i"CPNumericDataType.h"
+i"CPPieChart.h"
+i"CPPlainBlackTheme.h"
+i"CPPlainWhiteTheme.h"
+i"CPPlatformSpecificDefines.h"
+i"CPPlatformSpecificFunctions.h"
+i"CPPlatformSpecificCategories.h"
+i"CPPathExtensions.h"
+i"CPPlot.h"
+i"CPPlotArea.h"
+i"CPPlotAreaFrame.h"
+i"CPPlotGroup.h"
+i"CPPlotRange.h"
+i"CPPlotSpace.h"
+i"CPPlotSpaceAnnotation.h"
+i"CPPlotSymbol.h"
+i"CPPolarPlotSpace.h"
+i"CPRangePlot.h"
+i"CPResponder.h"
+i"CPScatterPlot.h"
+i"CPSlateTheme.h"
+i"CPSlateTheme.h"
+i"CPStocksTheme.h"
+i"CPTextLayer.h"
+i"CPTextStyle.h"
+i"CPTheme.h"
+i"CPTimeFormatter.h"
+i"CPTradingRangePlot.h"
+i"CPUtilities.h"
+i"CPXYAxis.h"
+i"CPXYAxisSet.h"
+i"CPXYGraph.h"
+i"CPXYPlotSpace.h"
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAnnotation.h
+c000000004EB78EAE0000000000000374
+t1320652462
+s884
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAnnotationHostLayer.h
+c000000004EB78EAB0000000000000151
+t1320652459
+s337
+i"CPLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAxis.h
+c000000004EB78EAE0000000000001E9E
+t1320652462
+s7838
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+i"CPDefinitions.h"
+i"CPTextStyle.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAxisLabel.h
+c000000004EB78EAC000000000000040D
+t1320652460
+s1037
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAxisLabelGroup.h
+c000000004EB78EAB0000000000000068
+t1320652459
+s104
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAxisSet.h
+c000000004EB78EAC0000000000000144
+t1320652460
+s324
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPAxisTitle.h
+c000000004EB78EAC000000000000006D
+t1320652460
+s109
+i<Foundation/Foundation.h>
+i"CPAxisLabel.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPBarPlot.h
+c000000004EB78EAC0000000000000D51
+t1320652460
+s3409
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPBorderedLayer.h
+c000000004EB78EAE000000000000015B
+t1320652462
+s347
+i<Foundation/Foundation.h>
+i"CPAnnotationHostLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPColor.h
+c000000004EB78EAD0000000000000439
+t1320652461
+s1081
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPColorSpace.h
+c000000004EB78EAF0000000000000141
+t1320652463
+s321
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPConstrainedPosition.h
+c000000004EB78EAD000000000000031A
+t1320652461
+s794
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPDarkGradientTheme.h
+c000000004EB78EAC000000000000006F
+t1320652460
+s111
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPDefinitions.h
+c000000004EB78EAB0000000000000E32
+t1320652459
+s3634
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPExceptions.h
+c000000004EB78EAC00000000000000E1
+t1320652460
+s225
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPFill.h
+c000000004EB78EAE0000000000000346
+t1320652462
+s838
+i<QuartzCore/QuartzCore.h>
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPGradient.h
+c000000004EB78EAC0000000000000B97
+t1320652460
+s2967
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPGraph.h
+c000000004EB78EAE0000000000000B96
+t1320652462
+s2966
+i"CPBorderedLayer.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPGridLines.h
+c000000004EB78EAD000000000000010A
+t1320652461
+s266
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPImage.h
+c000000004EB78EAB00000000000002AA
+t1320652459
+s682
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPLayer.h
+c000000004EB78EAC0000000000000840
+t1320652460
+s2112
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i"CPLineStyle.h"
+i"CPResponder.h"
+i"CPPlatformSpecificDefines.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPLayerAnnotation.h
+c000000004EB78EAD00000000000001F1
+t1320652461
+s497
+i<Foundation/Foundation.h>
+i"CPAnnotation.h"
+i"CPConstrainedPosition.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPLayoutManager.h
+c000000004EB78EAD00000000000006B2
+t1320652461
+s1714
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPLimitBand.h
+c000000004EB78EAE00000000000001C3
+t1320652462
+s451
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPLineStyle.h
+c000000004EB78EAD000000000000040E
+t1320652461
+s1038
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPMutableLineStyle.h
+c000000004EB78EAE0000000000000233
+t1320652462
+s563
+i<Foundation/Foundation.h>
+i"CPLineStyle.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPMutableNumericData+TypeConversion.h
+c000000004EB78EAD00000000000002BD
+t1320652461
+s701
+i<Foundation/Foundation.h>
+i"CPMutableNumericData.h"
+i"CPNumericDataType.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPMutableNumericData.h
+c000000004EB78EAB0000000000000336
+t1320652459
+s822
+i<Foundation/Foundation.h>
+i"CPNumericDataType.h"
+i"CPNumericData.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPMutableTextStyle.h
+c000000004EB78EAD0000000000000130
+t1320652461
+s304
+i<Foundation/Foundation.h>
+i"CPTextStyle.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPNumericData+TypeConversion.h
+c000000004EB78EAE0000000000000369
+t1320652462
+s873
+i<Foundation/Foundation.h>
+i"CPNumericData.h"
+i"CPNumericDataType.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPNumericData.h
+c000000004EB78EAB000000000000088E
+t1320652459
+s2190
+i<Foundation/Foundation.h>
+i"CPNumericDataType.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPNumericDataType.h
+c000000004EB78EAF00000000000004F5
+t1320652463
+s1269
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPathExtensions.h
+c000000004EB78EAC0000000000000126
+t1320652460
+s294
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPieChart.h
+c000000004EB78EAF0000000000000E03
+t1320652463
+s3587
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlainBlackTheme.h
+c000000004EB78EAC000000000000006E
+t1320652460
+s110
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlainWhiteTheme.h
+c000000004EB78EAB000000000000006E
+t1320652459
+s110
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlot.h
+c000000004EB78EAE0000000000001D10
+t1320652462
+s7440
+i"CPDefinitions.h"
+i"CPPlotRange.h"
+i"CPNumericDataType.h"
+i"CPAnnotationHostLayer.h"
+i"CPMutableTextStyle.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotArea.h
+c000000004EB78EAB0000000000000641
+t1320652459
+s1601
+i<Foundation/Foundation.h>
+i"CPLayer.h"
+i"CPGraph.h"
+i"CPAnnotationHostLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotAreaFrame.h
+c000000004EB78EAB000000000000016F
+t1320652459
+s367
+i"CPBorderedLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotGroup.h
+c000000004EB78EAF0000000000000142
+t1320652463
+s322
+i"CPLayer.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotRange.h
+c000000004EB78EAF000000000000090B
+t1320652463
+s2315
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotSpace.h
+c000000004EB78EAB000000000000142D
+t1320652459
+s5165
+i"CPDefinitions.h"
+i"CPResponder.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotSpaceAnnotation.h
+c000000004EB78EAE0000000000000197
+t1320652462
+s407
+i<Foundation/Foundation.h>
+i"CPAnnotation.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPlotSymbol.h
+c000000004EB78EAE000000000000084E
+t1320652462
+s2126
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPPolarPlotSpace.h
+c000000004EB78EAF0000000000000075
+t1320652463
+s117
+i<Foundation/Foundation.h>
+i"CPPlotSpace.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPRangePlot.h
+c000000004EB78EAB00000000000004E1
+t1320652459
+s1249
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPResponder.h
+c000000004EB78EAD00000000000005FC
+t1320652461
+s1532
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPScatterPlot.h
+c000000004EB78EAD0000000000000CE3
+t1320652461
+s3299
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPSlateTheme.h
+c000000004EB78EAF0000000000000068
+t1320652463
+s104
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPStocksTheme.h
+c000000004EB78EAF000000000000006A
+t1320652463
+s106
+i<Foundation/Foundation.h>
+i"CPXYTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPTextLayer.h
+c000000004EB78EAD000000000000023D
+t1320652461
+s573
+i"CPLayer.h"
+i"CPTextStyle.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPTextStyle.h
+c000000004EB78EAC0000000000000352
+t1320652460
+s850
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPTheme.h
+c000000004EB78EAD00000000000004B7
+t1320652461
+s1207
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPTimeFormatter.h
+c000000004EB78EAD0000000000000174
+t1320652461
+s372
+i<Foundation/Foundation.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPTradingRangePlot.h
+c000000004EB78EAB000000000000077E
+t1320652459
+s1918
+i<Foundation/Foundation.h>
+i"CPPlot.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPUtilities.h
+c000000004EB78EAE0000000000000D35
+t1320652462
+s3381
+i<Foundation/Foundation.h>
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPXYAxis.h
+c000000004EB78EAB000000000000020E
+t1320652459
+s526
+i<Foundation/Foundation.h>
+i"CPAxis.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPXYAxisSet.h
+c000000004EB78EAF00000000000000EB
+t1320652463
+s235
+i<Foundation/Foundation.h>
+i"CPAxisSet.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPXYGraph.h
+c000000004EB78EAB0000000000000154
+t1320652459
+s340
+i<Foundation/Foundation.h>
+i"CPGraph.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPXYPlotSpace.h
+c000000004EB78EAE000000000000030F
+t1320652462
+s783
+i"CPPlotSpace.h"
+i"CPDefinitions.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/Source/CPXYTheme.h
+c000000004EB78EAE0000000000000062
+t1320652462
+s98
+i<Foundation/Foundation.h>
+i"CPTheme.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/iPhoneOnly/CPGraphHostingView.h
+c000000004EB78EA90000000000000190
+t1320652457
+s400
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/iPhoneOnly/CPPlatformSpecificCategories.h
+c000000004EB78EA9000000000000039E
+t1320652457
+s926
+i<UIKit/UIKit.h>
+i"CPColor.h"
+i"CPLayer.h"
+i"CPPlatformSpecificDefines.h"
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/iPhoneOnly/CPPlatformSpecificDefines.h
+c000000004EB78EA9000000000000005B
+t1320652457
+s91
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/coreplot/iPhoneOnly/CPPlatformSpecificFunctions.h
+c000000004EB78EA9000000000000015D
+t1320652457
+s349
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/down.png
+c000000004EB78EB30000000000000DCA
+t1320652467
+s3530
+
+N/Users/ultrawise/Desktop/ManagerMoney/dui1.png
+c000000004EB78EB200000000000005E8
+t1320652466
+s1512
+
+N/Users/ultrawise/Desktop/ManagerMoney/dui2.png
+c000000004EB78EB2000000000000058A
+t1320652466
+s1418
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_fenxi.png
+c000000004EB78EB30000000000002602
+t1320652467
+s9730
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_guwen.png
+c000000004EB78EB300000000000025E0
+t1320652467
+s9696
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_hangqing.png
+c000000004EB78EB30000000000002006
+t1320652467
+s8198
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_income.png
+c000000004EB78EB30000000000001EB0
+t1320652467
+s7856
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_user.png
+c000000004EB78EB300000000000021DF
+t1320652467
+s8671
+
+N/Users/ultrawise/Desktop/ManagerMoney/home_xinxi.png
+c000000004EB78EB3000000000000253E
+t1320652467
+s9534
+
+N/Users/ultrawise/Desktop/ManagerMoney/jttp.png
+c000000004EB78EB300000000000000D9
+t1320652467
+s217
+
+N/Users/ultrawise/Desktop/ManagerMoney/logo.png
+c000000004EB78EB200000000000034C2
+t1320652466
+s13506
+
+N/Users/ultrawise/Desktop/ManagerMoney/main.m
+c000000004EB78EB20000000000000168
+t1320652466
+s360
+i<UIKit/UIKit.h>
+
+N/Users/ultrawise/Desktop/ManagerMoney/main_bg.png
+c000000004EB78EB30000000000056FBA
+t1320652467
+s356282
+
+N/Users/ultrawise/Desktop/ManagerMoney/main_nav_bar.png
+c000000004EB78EB300000000000013C5
+t1320652467
+s5061
+
+N/Users/ultrawise/Desktop/ManagerMoney/selection.png
+c000000004EB78EB30000000000000D73
+t1320652467
+s3443
+
+N/Users/ultrawise/Desktop/ManagerMoney/shouruxiangqing.png
+c000000004EB78EB300000000000025AC
+t1320652467
+s9644
+
+N/Users/ultrawise/Desktop/ManagerMoney/sousuozhanghu.png
+c000000004EB78EB30000000000002747
+t1320652467
+s10055
+
+N/Users/ultrawise/Desktop/ManagerMoney/start_logo_bg.jpg
+c000000004EB78EB30000000000002985
+t1320652467
+s10629
+
+N/Users/ultrawise/Desktop/ManagerMoney/start_logo_bkgd.png
+c000000004EB78EB30000000000014EB3
+t1320652467
+s85683
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_disover.png
+c000000004EB78EB200000000000017E1
+t1320652466
+s6113
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_fenxi.png
+c000000004EB78EB300000000000014EB
+t1320652467
+s5355
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_hanqing.png
+c000000004EB78EB3000000000000127B
+t1320652467
+s4731
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_income.png
+c000000004EB78EB20000000000000FFA
+t1320652466
+s4090
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_user.png
+c000000004EB78EB30000000000001361
+t1320652467
+s4961
+
+N/Users/ultrawise/Desktop/ManagerMoney/toolbar_xiaoxi.png
+c000000004EB78EB30000000000001CE8
+t1320652467
+s7400
+
+N/Users/ultrawise/Desktop/ManagerMoney/up.png
+c000000004EB78EB30000000000000E5C
+t1320652467
+s3676
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang1.png
+c000000004EB78EB300000000000018DE
+t1320652467
+s6366
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang2.png
+c000000004EB78EB30000000000001741
+t1320652467
+s5953
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang3.png
+c000000004EB78EB30000000000001858
+t1320652467
+s6232
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang4.png
+c000000004EB78EB3000000000000174A
+t1320652467
+s5962
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang5.png
+c000000004EB78EB300000000000018F0
+t1320652467
+s6384
+
+N/Users/ultrawise/Desktop/ManagerMoney/yinhang6.png
+c000000004EB78EB30000000000001A9B
+t1320652467
+s6811
+
+N/Users/ultrawise/Desktop/ManagerMoney/zhichuxiangqing.png
+c000000004EB78EB20000000000002455
+t1320652466
+s9301
+
+N/Users/ultrawise/Desktop/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a
+c000000004EB53BE5000000000022A340
+t1320500197
+s2270016
+
+N/var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch.gch
+t1320652500
+s15814064
+
+NManagerMoney-Info.plist
+c000000004EB78EB300000000000003E6
+t1320652467
+s998
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342354649#342354649#0(0"0(0#1#0"8623844832#0"0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/AlwaysPropertyView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342351532.806975
+e342351533.257504
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/AlwaysPropertyView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m342351532#342351533#0(0"0(0#0#66"/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m8603737376#2154"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/AlwaysPropertyView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/BarChartViewController.o /Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342351436.333921
+e342351436.618989
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/BarChartViewController.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m342351436#342351436#0(0"0(0#0#70"/Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m8622575072#2162"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/BarChartViewController.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/BarChartViewController.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/CustomCell.o /Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345301.914558
+e342345302.061410
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/CustomCell.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m342345301#342345302#0(0"0(0#0#58"/Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m8624494752#2138"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/CustomCell.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/CustomCell.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/DropDownList.o /Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345301.728948
+e342345301.914417
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/DropDownList.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m342345301#342345301#0(0"0(0#0#60"/Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m8625430560#2142"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/DropDownList.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/DropDownList.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/HomeView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342349868.540842
+e342349868.645339
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/HomeView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m342349868#342349868#0(0"0(0#0#56"/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m8603121984#2134"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/HomeView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/IncomeAndPayoutView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345301.443546
+e342345301.577187
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/IncomeAndPayoutView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m342345301#342345301#0(0"0(0#0#67"/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m8623891040#2156"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/IncomeAndPayoutView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/LoginView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342349608.159581
+e342349608.278722
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/LoginView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m:158: warning: property 'remember_btn' requires method '-remember_btn' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m:158: warning: property 'remember_btn' requires the method 'setRemember_btn:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@65"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m342349608#342349608#0(417"/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m:158: warning: property 'remember_btn' requires method '-remember_btn' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m:158: warning: property 'remember_btn' requires the method 'setRemember_btn:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@132"Property 'remember_btn' requires method '-remember_btn' to be defined - use @synthesize, @dynamic or provide a method implementation342349608#0#205#0(6@57"/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m342345256#158#0#158#0#0"0(22@139"Property 'remember_btn' requires the method 'setRemember_btn:' to be defined - use @synthesize, @dynamic or provide a method implementation342349608#205#212#0(6@57"/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m342345256#158#0#158#0#0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m8605572640#2136"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/LoginView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MAINCONTROLVIEW.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345301.577322
+e342345301.728812
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MAINCONTROLVIEW.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m: In function '-[MAINCONTROLVIEW set_View:]':
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m:19: warning: local declaration of 'curr_view' hides instance variable
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m: In function '-[MAINCONTROLVIEW get_View]':
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m:28: warning: control reaches end of non-void function
+lSLF07#2@71"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m342345301#342345301#0(469"/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m: In function '-[MAINCONTROLVIEW set_View:]':/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m:19: warning: local declaration of 'curr_view' hides instance variable/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m: In function '-[MAINCONTROLVIEW get_View]':/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m:28: warning: control reaches end of non-void function2(22@56"Local declaration of 'curr_view' hides instance variable342345301#109#134#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m342345256#19#0#19#0#0"0(22@40"Control reaches end of non-void function342345301#351#118#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m342345256#28#0#28#0#40"control reaches end of non-void function0(0#0#63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m8623541504#2148"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MAINCONTROLVIEW.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountAnalyseView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342350515.067963
+e342350515.432949
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountAnalyseView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m342350515#342350515#0(0"0(0#0#70"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m8623234208#2162"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountAnalyseView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342354649.918389
+e342354650.183764
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:21: warning: excess elements in array initializer
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:21: warning: (near initialization for 'ss2')
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:22: warning: excess elements in array initializer
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:22: warning: (near initialization for 'ss1')
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m: In function '-[MainAccountView tableview:didSelectRowIndexPath:]':
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:75: warning: passing argument 1 of 'NSLog' makes pointer from integer without a cast
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:75: warning: format not a string literal and no format arguments
+lSLF07#2@71"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354649#342354650#0(856"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:21: warning: excess elements in array initializer/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:21: warning: (near initialization for 'ss2')/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:22: warning: excess elements in array initializer/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:22: warning: (near initialization for 'ss1')/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m: In function '-[MainAccountView tableview:didSelectRowIndexPath:]':/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:75: warning: passing argument 1 of 'NSLog' makes pointer from integer without a cast/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m:75: warning: format not a string literal and no format arguments6(22@36"Excess elements in array initializer342354650#0#114#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#21#0#21#0#0"0(22@31"(near initialization for 'ss2')342354650#114#109#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#21#0#21#0#0"0(22@36"Excess elements in array initializer342354650#223#114#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#22#0#22#0#0"0(22@31"(near initialization for 'ss1')342354650#337#109#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#22#0#22#0#0"0(22@71"Passing argument 1 of 'NSLog' makes pointer from integer without a cast342354650#578#149#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#75#0#75#0#0"0(22@51"Format not a string literal and no format arguments342354650#727#129#0(6@63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m342354646#75#0#75#0#51"format not a string literal and no format arguments0(0#0#63"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m8623036288#2148"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/MainAccountView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoneyAppDelegate.o /Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342349608.062308
+e342349608.159416
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoneyAppDelegate.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m342349608#342349608#0(0"0(0#0#71"/Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m8616243264#2164"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/ManagerMoneyAppDelegate.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoneyAppDelegate.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/NewAddAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345300.779128
+e342345300.913944
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/NewAddAccountView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m342345300#342345300#0(0"0(0#0#65"/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m8624832896#2152"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/NewAddAccountView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/PersonallyAccountView.o /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342352515.526381
+e342352515.805882
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/PersonallyAccountView.o
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:29: warning: excess elements in array initializer
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:29: warning: (near initialization for 'ss')
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m: In function '-[PersonallyAccountView tableview:didSelectRowIndexPath:]':
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:89: warning: passing argument 1 of 'NSLog' makes pointer from integer without a cast
+o/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:89: warning: format not a string literal and no format arguments
+lSLF07#2@77"Compile /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m342352515#342352515#0(668"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:29: warning: excess elements in array initializer/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:29: warning: (near initialization for 'ss')/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m: In function '-[PersonallyAccountView tableview:didSelectRowIndexPath:]':/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:89: warning: passing argument 1 of 'NSLog' makes pointer from integer without a cast/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m:89: warning: format not a string literal and no format arguments4(22@36"Excess elements in array initializer342352515#0#120#0(6@69"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m342352493#29#0#29#0#0"0(22@30"(near initialization for 'ss')342352515#120#114#0(6@69"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m342352493#29#0#29#0#0"0(22@71"Passing argument 1 of 'NSLog' makes pointer from integer without a cast342352515#378#155#0(6@69"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m342352493#89#0#89#0#0"0(22@51"Format not a string literal and no format arguments342352515#533#135#0(6@69"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m342352493#89#0#89#0#51"format not a string literal and no format arguments0(0#0#69"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m8620236800#2160"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/PersonallyAccountView.o0#
+
+CCompileC build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/main.o /Users/ultrawise/Desktop/ManagerMoney/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345300.070554
+e342345300.155173
+r1
+xCompileC
+xbuild/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/main.o
+x/Users/ultrawise/Desktop/ManagerMoney/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/ultrawise/Desktop/ManagerMoney/main.m342345300#342345300#0(0"0(0#0#44"/Users/ultrawise/Desktop/ManagerMoney/main.m8624665760#2118"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -include /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch -c /Users/ultrawise/Desktop/ManagerMoney/main.m -o /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib
+s342351496.434246
+e342351498.174264
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib
+lSLF07#2@41"CompileXIB Classes/AlwaysPropertyView.xib342351496#342351498#0(0"0(0#0#68"/Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib8622622720#596"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/AlwaysPropertyView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/AlwaysPropertyView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib
+s342349943.382411
+e342349945.158899
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib
+lSLF07#2@31"CompileXIB Classes/HomeView.xib342349943#342349945#0(0"0(0#0#58"/Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib8609199136#576"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/HomeView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/HomeView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib
+s342345294.693152
+e342345295.659987
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib
+lSLF07#2@42"CompileXIB Classes/IncomeAndPayoutView.xib342345294#342345295#0(0"0(0#0#69"/Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib8603694016#598"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/IncomeAndPayoutView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/IncomeAndPayoutView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib
+s342345289.191490
+e342345290.061716
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib
+lSLF07#2@32"CompileXIB Classes/LoginView.xib342345289#342345290#0(0"0(0#0#59"/Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib8627630912#578"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/LoginView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/LoginView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib
+s342345295.660188
+e342345296.425465
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib
+lSLF07#2@38"CompileXIB Classes/MAINCONTROLVIEW.xib342345295#342345296#0(0"0(0#0#65"/Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib8598986624#590"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MAINCONTROLVIEW.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/MAINCONTROLVIEW.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib
+s342345293.303256
+e342345294.156188
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib
+lSLF07#2@45"CompileXIB Classes/MainAccountAnalyseView.xib342345293#342345294#0(0"0(0#0#72"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib8614961376#604"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainAccountAnalyseView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountAnalyseView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib
+s342345292.546832
+e342345293.303047
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib
+lSLF07#2@38"CompileXIB Classes/MainAccountView.xib342345292#342345293#0(0"0(0#0#65"/Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib8616513888#590"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainAccountView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/MainAccountView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib
+s342345291.785612
+e342345292.546711
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib
+lSLF07#2@40"CompileXIB Classes/NewAddAccountView.xib342345291#342345292#0(0"0(0#0#67"/Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib8619068480#594"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/NewAddAccountView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/NewAddAccountView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib
+s342352513.887092
+e342352515.523354
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib
+lSLF07#2@44"CompileXIB Classes/PersonallyAccountView.xib342352513#342352515#0(0"0(0#0#71"/Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib8623262080#602"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/PersonallyAccountView.nib /Users/ultrawise/Desktop/ManagerMoney/Classes/PersonallyAccountView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib
+s342345297.264424
+e342345298.187023
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib
+lSLF07#2@25"CompileXIB CustomCell.xib342345297#342345298#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib8627868096#572"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/CustomCell.nib /Users/ultrawise/Desktop/ManagerMoney/CustomCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib
+s342345288.396264
+e342345289.191368
+r1
+xCompileXIB
+x/Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib342345288#342345289#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib8623130624#572"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/MainWindow.nib /Users/ultrawise/Desktop/ManagerMoney/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/addshouru.png addshouru.png
+s342345298.537766
+e342345298.691982
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/addshouru.png
+xaddshouru.png
+lSLF07#2@18"Copy addshouru.png342345298#342345298#0(0"0(0#0#51"/Users/ultrawise/Desktop/ManagerMoney/addshouru.png8612252192#473"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/addshouru.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/addzhichu.png addzhichu.png
+s342345298.558893
+e342345298.692125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/addzhichu.png
+xaddzhichu.png
+lSLF07#2@18"Copy addzhichu.png342345298#342345298#0(0"0(0#0#51"/Users/ultrawise/Desktop/ManagerMoney/addzhichu.png8602741440#473"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/addzhichu.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/bg.png bg.png
+s342345296.875297
+e342345297.304423
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/bg.png
+xbg.png
+lSLF07#2@11"Copy bg.png342345296#342345297#0(0"0(0#0#44"/Users/ultrawise/Desktop/ManagerMoney/bg.png8623973024#466"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/bg.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/caiwufenxi.png caiwufenxi.png
+s342345298.464906
+e342345298.691682
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/caiwufenxi.png
+xcaiwufenxi.png
+lSLF07#2@19"Copy caiwufenxi.png342345298#342345298#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/caiwufenxi.png8615089312#474"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/caiwufenxi.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/call_locate_orange.9.png call_locate_orange.9.png
+s342345298.438389
+e342345298.692555
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/call_locate_orange.9.png
+xcall_locate_orange.9.png
+lSLF07#2@29"Copy call_locate_orange.9.png342345298#342345298#0(0"0(0#0#62"/Users/ultrawise/Desktop/ManagerMoney/call_locate_orange.9.png8616561952#484"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/call_locate_orange.9.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/down.png down.png
+s342345298.187148
+e342345298.463769
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/down.png
+xdown.png
+lSLF07#2@13"Copy down.png342345298#342345298#0(0"0(0#0#46"/Users/ultrawise/Desktop/ManagerMoney/down.png8625184480#468"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/down.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/dui1.png dui1.png
+s342345296.426882
+e342345297.303687
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/dui1.png
+xdui1.png
+lSLF07#2@13"Copy dui1.png342345296#342345297#0(0"0(0#0#46"/Users/ultrawise/Desktop/ManagerMoney/dui1.png8627109536#468"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/dui1.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/dui2.png dui2.png
+s342345296.444600
+e342345297.303835
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/dui2.png
+xdui2.png
+lSLF07#2@13"Copy dui2.png342345296#342345297#0(0"0(0#0#46"/Users/ultrawise/Desktop/ManagerMoney/dui2.png8626884800#468"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/dui2.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_fenxi.png home_fenxi.png
+s342345298.663550
+e342345298.895300
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_fenxi.png
+xhome_fenxi.png
+lSLF07#2@19"Copy home_fenxi.png342345298#342345298#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/home_fenxi.png8623101600#474"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_fenxi.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_guwen.png home_guwen.png
+s342345298.692648
+e342345298.894214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_guwen.png
+xhome_guwen.png
+lSLF07#2@19"Copy home_guwen.png342345298#342345298#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/home_guwen.png8622819136#474"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_guwen.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_hangqing.png home_hangqing.png
+s342345298.734331
+e342345298.894468
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_hangqing.png
+xhome_hangqing.png
+lSLF07#2@22"Copy home_hangqing.png342345298#342345298#0(0"0(0#0#55"/Users/ultrawise/Desktop/ManagerMoney/home_hangqing.png8622726688#477"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_hangqing.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_income.png home_income.png
+s342345298.753460
+e342345298.894603
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_income.png
+xhome_income.png
+lSLF07#2@20"Copy home_income.png342345298#342345298#0(0"0(0#0#53"/Users/ultrawise/Desktop/ManagerMoney/home_income.png8622586944#475"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_income.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_user.png home_user.png
+s342345298.781880
+e342345298.894746
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_user.png
+xhome_user.png
+lSLF07#2@18"Copy home_user.png342345298#342345298#0(0"0(0#0#51"/Users/ultrawise/Desktop/ManagerMoney/home_user.png8621384896#473"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_user.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/home_xinxi.png home_xinxi.png
+s342345298.820225
+e342345298.895014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/home_xinxi.png
+xhome_xinxi.png
+lSLF07#2@19"Copy home_xinxi.png342345298#342345298#0(0"0(0#0#52"/Users/ultrawise/Desktop/ManagerMoney/home_xinxi.png8621088672#474"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/home_xinxi.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/jttp.png jttp.png
+s342345297.209187
+e342345297.304561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/jttp.png
+xjttp.png
+lSLF07#2@13"Copy jttp.png342345297#342345297#0(0"0(0#0#46"/Users/ultrawise/Desktop/ManagerMoney/jttp.png8623588512#468"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/jttp.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/logo.png logo.png
+s342345298.204226
+e342345298.464083
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/logo.png
+xlogo.png
+lSLF07#2@13"Copy logo.png342345298#342345298#0(0"0(0#0#46"/Users/ultrawise/Desktop/ManagerMoney/logo.png8624535904#468"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/logo.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/main_bg.png main_bg.png
+s342345296.425598
+e342345297.303450
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/main_bg.png
+xmain_bg.png
+lSLF07#2@16"Copy main_bg.png342345296#342345297#0(0"0(0#0#49"/Users/ultrawise/Desktop/ManagerMoney/main_bg.png8627394272#471"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/main_bg.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/main_nav_bar.png main_nav_bar.png
+s342345296.467186
+e342345297.303982
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/main_nav_bar.png
+xmain_nav_bar.png
+lSLF07#2@21"Copy main_nav_bar.png342345296#342345297#0(0"0(0#0#54"/Users/ultrawise/Desktop/ManagerMoney/main_nav_bar.png8625185216#476"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/main_nav_bar.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/selection.png selection.png
+s342345298.635835
+e342345298.895158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/selection.png
+xselection.png
+lSLF07#2@18"Copy selection.png342345298#342345298#0(0"0(0#0#51"/Users/ultrawise/Desktop/ManagerMoney/selection.png8623242944#473"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/selection.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/shouruxiangqing.png shouruxiangqing.png
+s342345298.611106
+e342345298.692274
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/shouruxiangqing.png
+xshouruxiangqing.png
+lSLF07#2@24"Copy shouruxiangqing.png342345298#342345298#0(0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/shouruxiangqing.png8623421216#479"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/shouruxiangqing.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/sousuozhanghu.png sousuozhanghu.png
+s342345298.586043
+e342345298.894881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/sousuozhanghu.png
+xsousuozhanghu.png
+lSLF07#2@22"Copy sousuozhanghu.png342345298#342345298#0(0"0(0#0#55"/Users/ultrawise/Desktop/ManagerMoney/sousuozhanghu.png8590206336#477"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/sousuozhanghu.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bg.jpg start_logo_bg.jpg
+s342345296.693953
+e342345297.304270
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/start_logo_bg.jpg
+xstart_logo_bg.jpg
+lSLF07#2@22"Copy start_logo_bg.jpg342345296#342345297#0(0"0(0#0#55"/Users/ultrawise/Desktop/ManagerMoney/start_logo_bg.jpg8624354240#477"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/start_logo_bg.jpg /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/start_logo_bkgd.png start_logo_bkgd.png
+s342345296.490846
+e342345297.304131
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/start_logo_bkgd.png
+xstart_logo_bkgd.png
+lSLF07#2@24"Copy start_logo_bkgd.png342345296#342345297#0(0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/start_logo_bkgd.png8624809024#479"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/start_logo_bkgd.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_disover.png toolbar_disover.png
+s342345298.841266
+e342345299.037226
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_disover.png
+xtoolbar_disover.png
+lSLF07#2@24"Copy toolbar_disover.png342345298#342345299#0(0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/toolbar_disover.png8621050688#479"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_disover.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_fenxi.png toolbar_fenxi.png
+s342345298.866020
+e342345299.037367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_fenxi.png
+xtoolbar_fenxi.png
+lSLF07#2@22"Copy toolbar_fenxi.png342345298#342345299#0(0"0(0#0#55"/Users/ultrawise/Desktop/ManagerMoney/toolbar_fenxi.png8620924416#477"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_fenxi.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_hanqing.png toolbar_hanqing.png
+s342345298.895400
+e342345299.049589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_hanqing.png
+xtoolbar_hanqing.png
+lSLF07#2@24"Copy toolbar_hanqing.png342345298#342345299#0(0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/toolbar_hanqing.png8620807424#479"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_hanqing.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_income.png toolbar_income.png
+s342345298.925944
+e342345299.037077
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_income.png
+xtoolbar_income.png
+lSLF07#2@23"Copy toolbar_income.png342345298#342345299#0(0"0(0#0#56"/Users/ultrawise/Desktop/ManagerMoney/toolbar_income.png8620550496#478"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_income.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_user.png toolbar_user.png
+s342345298.961098
+e342345299.059915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_user.png
+xtoolbar_user.png
+lSLF07#2@21"Copy toolbar_user.png342345298#342345299#0(0"0(0#0#54"/Users/ultrawise/Desktop/ManagerMoney/toolbar_user.png8620468192#476"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_user.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/toolbar_xiaoxi.png toolbar_xiaoxi.png
+s342345298.992153
+e342345299.059042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/toolbar_xiaoxi.png
+xtoolbar_xiaoxi.png
+lSLF07#2@23"Copy toolbar_xiaoxi.png342345298#342345299#0(0"0(0#0#56"/Users/ultrawise/Desktop/ManagerMoney/toolbar_xiaoxi.png8620322720#478"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/toolbar_xiaoxi.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/up.png up.png
+s342345298.188448
+e342345298.463931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/up.png
+xup.png
+lSLF07#2@11"Copy up.png342345298#342345298#0(0"0(0#0#44"/Users/ultrawise/Desktop/ManagerMoney/up.png8624878816#466"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/up.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang1.png yinhang1.png
+s342345298.221334
+e342345298.464234
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang1.png
+xyinhang1.png
+lSLF07#2@17"Copy yinhang1.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang1.png8624254656#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang1.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang2.png yinhang2.png
+s342345298.385274
+e342345298.464802
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang2.png
+xyinhang2.png
+lSLF07#2@17"Copy yinhang2.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang2.png8619530720#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang2.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang3.png yinhang3.png
+s342345298.411103
+e342345298.692418
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang3.png
+xyinhang3.png
+lSLF07#2@17"Copy yinhang3.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang3.png8617458752#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang3.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang4.png yinhang4.png
+s342345298.291905
+e342345298.464376
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang4.png
+xyinhang4.png
+lSLF07#2@17"Copy yinhang4.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang4.png8623953696#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang4.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang5.png yinhang5.png
+s342345298.326596
+e342345298.464512
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang5.png
+xyinhang5.png
+lSLF07#2@17"Copy yinhang5.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang5.png8623096736#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang5.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/yinhang6.png yinhang6.png
+s342345298.355869
+e342345298.464660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/yinhang6.png
+xyinhang6.png
+lSLF07#2@17"Copy yinhang6.png342345298#342345298#0(0"0(0#0#50"/Users/ultrawise/Desktop/ManagerMoney/yinhang6.png8622607712#472"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/yinhang6.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CCpResource build/Debug-iphonesimulator/ManagerMoney.app/zhichuxiangqing.png zhichuxiangqing.png
+s342345298.500919
+e342345298.691846
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ManagerMoney.app/zhichuxiangqing.png
+xzhichuxiangqing.png
+lSLF07#2@24"Copy zhichuxiangqing.png342345298#342345298#0(0"0(0#0#57"/Users/ultrawise/Desktop/ManagerMoney/zhichuxiangqing.png8614575552#479"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/ultrawise/Desktop/ManagerMoney/zhichuxiangqing.png /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+
+CGenerateDSYMFile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app.dSYM /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney
+s342354650.375503
+e342354650.545989
+r1
+xGenerateDSYMFile
+x/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app.dSYM
+x/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/ManagerMoney.app.dSYM build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney342354650#342354650#0(0"0(0#0#95"/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney8604341856#395"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney -o /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app.dSYM0#
+
+CLd /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney normal i386
+s342354650.184548
+e342354650.375368
+r1
+xLd
+x/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney
+xnormal
+xi386
+lSLF07#2@100"Link /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney342354650#342354650#0(0"0(0#0#0"8618119520#1049"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -filelist /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/Objects-normal/i386/ManagerMoney.LinkFileList -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/libCorePlot-CocoaTouch.a -o /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/ManagerMoney0#
+
+CProcessInfoPlistFile /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/Info.plist ManagerMoney-Info.plist
+s342345288.342701
+e342345288.396134
+r1
+xProcessInfoPlistFile
+x/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/Info.plist
+xManagerMoney-Info.plist
+lSLF07#2@31"Process ManagerMoney-Info.plist342345288#342345288#0(0"0(0#0#61"/Users/ultrawise/Desktop/ManagerMoney/ManagerMoney-Info.plist8623453344#491"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ManagerMoney-Info.plist -genpkginfo /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app/Info.plist0#
+
+CProcessPCH /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch.gch ManagerMoney_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342345299.060025
+e342345300.070381
+r1
+xProcessPCH
+x/var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch.gch
+xManagerMoney_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile ManagerMoney_Prefix.pch342345299#342345300#0(0"0(0#0#61"/Users/ultrawise/Desktop/ManagerMoney/ManagerMoney_Prefix.pch8627122272#2006"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-generated-files.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-own-target-headers.hmap -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-all-target-headers.hmap -iquote /Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/ManagerMoney-project-headers.hmap -F/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator -I/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/include -Icoreplot -Icoreplot/iPhoneOnly -Icoreplot/MacOnly -Icoreplot/SDKBuild -Icoreplot/Source -Icoreplot/TestResources -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources/i386 -I/Users/ultrawise/Desktop/ManagerMoney/build/ManagerMoney.build/Debug-iphonesimulator/ManagerMoney.build/DerivedSources -c /Users/ultrawise/Desktop/ManagerMoney/ManagerMoney_Prefix.pch -o /var/folders/k8/k8r9zDvJHUSzGqG9HYg3d++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ManagerMoney_Prefix-atyftmrteephrbbhcesyepiqgwse/ManagerMoney_Prefix.pch.gch0#
+
+CTouch /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app
+s342354650.546295
+e342354650.550172
+r1
+xTouch
+x/Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app
+lSLF07#2@88"Touch /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app342354650#342354650#0(0"0(0#0#0"8619732160#281"    cd /Users/ultrawise/Desktop/ManagerMoney    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ultrawise/Desktop/ManagerMoney/build/Debug-iphonesimulator/ManagerMoney.app0#
+

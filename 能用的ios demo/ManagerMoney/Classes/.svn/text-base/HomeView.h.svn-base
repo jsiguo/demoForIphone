@@ -1,0 +1,29 @@
+//
+//  HomeView.h
+//  ManagerMoney
+//
+//  Created by 杨勇 on 11-11-3.
+//  Copyright 2011 ultrawise. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "MAINCONTROLVIEW.h"
+#import "IncomeAndPayoutView.h"
+//主页
+@interface HomeView : UIViewController {
+	
+	MAINCONTROLVIEW *ma_view;
+	UIButton *income_btn;
+	UIButton *user_acc_btn;
+	
+	
+}
+@property(nonatomic,retain)IBOutlet MAINCONTROLVIEW *ma_view;
+@property(nonatomic,retain)IBOutlet UIButton *income_btn;
+@property(nonatomic,retain)IBOutlet UIButton *user_acc_btn;
+
+-(IBAction)btnclicked:(id)sengder;
+-(IBAction)many_btn_clicked:(id)btn;
+
+
+@end
